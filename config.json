@@ -1,4 +1,4 @@
 {
-  "dl": "http://localhost:8000/dl",
-  "api": "http://localhost:8000"
+  "dl": "http://aegaeon.uberspace.de:40260/dl",
+  "api": "http://aegaeon.uberspace.de:40260"
 }
