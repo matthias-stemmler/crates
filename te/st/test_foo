@@ -1,0 +1,1 @@
+{"name":"test_foo","vers":"0.1.11","deps":[{"name":"test_bar","req":"=0.1.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","registry":null,"package":null}],"cksum":"948790e54927a0bab3a77b0568f18348d994bcb9c925112ba681f01410b7cf53","features":{},"yanked":false,"links":null}
